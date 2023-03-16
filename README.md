@@ -1,7 +1,7 @@
 ### Hi there, I'm Mathias Bergmann
 
 ### About
-I'm a Web Developer, and I'm studying web development at [RocketSeat]{app.rocketseat.com.br}
+I'm a Web Developer, and I'm studying web development at [RocketSeat](app.rocketseat.com.br)
 
 ### Current Stack
 - Main language: 'Javascript'
