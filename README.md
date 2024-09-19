@@ -1,15 +1,13 @@
 ### Hi there, I'm Mathias Bergmann
 
 ### About
-I'm a Web Developer, and I'm studying web development at [RocketSeat](app.rocketseat.com.br)
+I'm a student of Software Engineering at Universidade de Caxias do Sul (UCS)
 
 ### Current Stack
-- Main language: 'Javascript'
-- Backend: 'Node.js'
-- Frontend: 'React.js', 'HTML5', 'CSS3', 'Javascript'
+- Main language: 'Java' and 'C#'
 - Layout desing: 'Figma'
 - Version code control: 'Git & Github'
-- Tools: 'VSCode'
+- Tools: 'Intellij' and 'Visual Studio 2020'
 - Mostly active at Discord
 
 ### Contacts
